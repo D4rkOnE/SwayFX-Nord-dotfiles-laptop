@@ -1,6 +1,8 @@
 # Welcome to the dotfiles of my Nord themed SwayFX Archlinux setup
 By now you probably figured out I like playing around with different window managers and wayland compositors.  
 
+The file config.tar.gz contains the entire contents of ~/.config including the Sway config, Waybar config, GTK3 and GTK4 config, Alacritty config, Rofi config etc.
+
 ![Clean screenshot](https://github.com/D4rkOnE/SwayFX-Nord-dotfiles-laptop/blob/main/clean.png)
 
 ![Busy](https://github.com/D4rkOnE/SwayFX-Nord-dotfiles-laptop/blob/main/busy.png)
