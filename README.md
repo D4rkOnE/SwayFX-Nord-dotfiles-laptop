@@ -5,4 +5,4 @@ By now you probably figured out I like playing around with different window mana
 
 ![Busy](https://github.com/D4rkOnE/SwayFX-Nord-dotfiles-laptop/blob/main/busy.png)
 
-![Busy rofi](https://github.com/D4rkOnE/SwayFX-Nord-dotfiles-laptop/blob/main/busy.png)
+![Busy rofi](https://github.com/D4rkOnE/SwayFX-Nord-dotfiles-laptop/blob/main/busy_rofi.png)
