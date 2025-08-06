@@ -3,3 +3,6 @@ By now you probably figured out I like playing around with different window mana
 
 ![Clean screenshot](https://github.com/D4rkOnE/SwayFX-Nord-dotfiles-laptop/blob/main/clean.png)
 
+![Busy](https://github.com/D4rkOnE/SwayFX-Nord-dotfiles-laptop/blob/main/busy.png)
+
+![Busy rofi](https://github.com/D4rkOnE/SwayFX-Nord-dotfiles-laptop/blob/main/busy.png)
