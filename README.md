@@ -28,6 +28,16 @@ return {
 }
 ```
 
+## Nord theme for vim
+Install vim first.  Then create a file ~/.vimrc with the following content:
+```
+call plug#begin()
+Plug 'arcticicestudio/nord-vim'
+call plug#end()
+
+colorscheme nord
+```
+
 ![Clean screenshot](https://github.com/D4rkOnE/SwayFX-Nord-dotfiles-laptop/blob/main/clean.png)
 
 ![Busy](https://github.com/D4rkOnE/SwayFX-Nord-dotfiles-laptop/blob/main/busy.png)
